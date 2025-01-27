@@ -5,3 +5,5 @@ M
 contracts/product-origin.clar,8/8/884eded6c9ed84db51d075959d59937de183c397
 L
 tests/product-origin.test.ts,a/1/a1639faf0449c61003049ad7ef7e3c0396b74ad8
+X
+(contracts/transportation-monitoring.clar,1/c/1cdc83f5cd4d64bcbd0e74a9594a7f110d03cac4
